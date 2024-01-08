@@ -20,5 +20,5 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: ${{ secrets.demo }}
+          personal_token: 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
           publish_dir: ./dist
